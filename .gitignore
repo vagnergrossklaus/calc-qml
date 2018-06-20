@@ -1,0 +1,7 @@
+*.o
+*.qmlc
+*.user
+*.stash
+moc_*
+Makefile
+ExemploWidgetQML
